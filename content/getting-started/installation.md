@@ -1,11 +1,11 @@
-+++
-title = "Installation"
-description = ""
-weight = 1
-+++
+---
+title: Installation
+description: ''
+weight: 1
+---
 
 {{< lead >}}
-Installing Ace is easy. Just install the Hugo binary, create a new site and install the Ace theme.
+How to install QuickBox Pro
 {{< /lead >}}
 
 ## Installing Hugo
@@ -40,7 +40,7 @@ git clone https://github.com/vantagedesign/ace-documentation
 After theme installation, the <code>/docs/themes/ace-documentation</code> folder should contain the file <code>theme.toml</code>, along with all other theme files.
 
 ### Configuring your hugo site to use the theme
-Inside your site's folder, <code>/docs</code>, you will find a file called <code>config.toml</code>. This is the configuration file for your site. Open it and configure it to use the Ace theme by setting the following value:
+Inside your site's folder, <code>/docs</code>, you will find a file called <code>config.toml</code>. This is the configuration file for your site. Open it and configure it to use the Ace theme by setting the following value:How to install QuickBox ProHow to install QuickBox Pro
 {{< code lang="toml" >}}
 theme = "ace-documentation"
 {{< /code >}}
