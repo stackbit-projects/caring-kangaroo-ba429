@@ -12,11 +12,9 @@ How to install QuickBox Pro
 This is for the installation of QuickBox Pro, for information on QuickBox Community see our Github HERE. Additional comparisons between CE (Community Edition) and Pro can be found HERE.
 
 Supported OS/Distro
-Ubuntu 16.04 retired Ubuntu 18.04 Passing Ubuntu 20.04 Passing Debian 9 Passing Debian 10 Passing
+<img src="https://img.shields.io/badge/Ubuntu%2018.04-passing-brightgreen.svg?style=flat-square" alt="Ubuntu 18.04 Passing">
 
 </a>.
-
-There may be other ways to install Hugo that are more applicable for your project. For example, you can use the NPM package <a href="https://www.npmjs.com/package/hugo-bin" target="_blank">hugo-bin</a> to include Hugo in a project that already uses NPM packages.
 
 ### Checking your Hugo installation
 Run the following command in your terminal to check if Hugo is installed.
