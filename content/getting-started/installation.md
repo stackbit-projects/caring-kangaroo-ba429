@@ -3,6 +3,14 @@ title: Installation
 description: QB Pro Install
 weight: 1
 ---
+</header>
+<div id="content" class="site-content ">
+<div class="site-content__wrap container">
+<div class="row">
+<div id="primary" class="col-xs-12">
+<main id="main" class="site-main">
+<article id="post-17191" class="post-17191 ht_kb type-ht_kb status-publish format-standard has-post-thumbnail hentry ht_kb_category-installation ht_kb_tag-how-to-install ht_kb_tag-install ht_kb_tag-install-quickbox ht_kb_tag-installation-quickbox ht_kb_tag-standard-install ht_kb_tag-standard-quickbox-install">
+<header class="page-header">
 <h1 class="page-title">How to install QuickBox Pro &#8211; Standard Install</h1> </header>
 <figure class="post-thumbnail"><a class="post-thumbnail__link" href="https://quickbox.io/knowledge-base/standard-install/" aria-hidden="true"><img width="370" height="265" src="https://quickbox.io/wp-content/uploads/2019/02/standard-install-370x265.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" /></a></figure>
 <div class="page-content">
@@ -140,3 +148,18 @@ cd /root &amp;&amp; wget -q https://lab.quickbox.io/QuickBox/Pro/raw/master/qbpr
 <p><code>./qbpro -u="username" -p="password" -k="apikey"</code></p>
 <p>
 </p>
+<div class="wp-block-spacer" style="height: 120px;" aria-hidden="true"> </div>
+<p>
+</p></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+</div>
