@@ -1,6 +1,6 @@
 ---
 title: Knowledge Base
-description: ''
+description: Explore our ever expanding Knowledge Base
 ---
 
 {{< lead >}}
