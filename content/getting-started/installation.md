@@ -10,10 +10,18 @@ How to install QuickBox Pro
 
 ## Installing QuickBox Pro
 This is for the installation of QuickBox Pro, for information on QuickBox Community see our Github HERE. Additional comparisons between CE (Community Edition) and Pro can be found HERE.
+<p>
+<img class="alignnone" src="https://img.shields.io/badge/Ubuntu%2016.04-retired-black.svg?style=flat-square" alt="Ubuntu 16.04 retired" width="136" height="20">
 
-Supported OS/Distro  
 <img src="https://img.shields.io/badge/Ubuntu%2018.04-passing-brightgreen.svg?style=flat-square" alt="Ubuntu 18.04 Passing">
 
+<img src="https://img.shields.io/badge/Ubuntu%2020.04-passing-brightgreen.svg?style=flat-square" alt="Ubuntu 20.04 Passing">
+	
+<img src="https://img.shields.io/badge/Debian%209-passing-brightgreen.svg?style=flat-square" alt="Debian 9 Passing">
+	
+<img src="https://img.shields.io/badge/Debian%2010-passing-brightgreen.svg?style=flat-square" alt="Debian 10 Passing">
+	
+</p>
 </a>
 
 ### Checking your Hugo installation
