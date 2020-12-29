@@ -8,10 +8,13 @@ weight: 1
 How to install QuickBox Pro
 {{< /lead >}}
 
-## Installing Hugo
-In order to run this theme, you need to install Hugo on your system.
-This theme requires Hugo's extended version to support SCSS compilation, so make please sure you install the extended version.
-For more detailed information and other methods of installation you can visit the <a href="https://gohugo.io/getting-started/installing/" target="_blank">Hugo installation guide</a>.
+## Installing QuickBox Pro
+This is for the installation of QuickBox Pro, for information on QuickBox Community see our Github HERE. Additional comparisons between CE (Community Edition) and Pro can be found HERE.
+
+Supported OS/Distro
+Ubuntu 16.04 retired Ubuntu 18.04 Passing Ubuntu 20.04 Passing Debian 9 Passing Debian 10 Passing
+
+</a>.
 
 There may be other ways to install Hugo that are more applicable for your project. For example, you can use the NPM package <a href="https://www.npmjs.com/package/hugo-bin" target="_blank">hugo-bin</a> to include Hugo in a project that already uses NPM packages.
 
