@@ -1,6 +1,6 @@
 ---
 title: Installation
-description: ''
+description: QB Pro Install
 weight: 1
 ---
 
